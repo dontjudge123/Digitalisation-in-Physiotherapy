@@ -1,4 +1,5 @@
 # Virtual Reality Surgical Training
+https://www.digitalhealth.net/2019/04/virtual-reality-training-simulator-royal-college-accreditation/
 What is VR?
 
 Virtual reality (VR) is a simulated experience that uses pose tracking and 3D near-eye displays to give the user an immersive feel of a virtual world. Virtual reality has applications in entertainment (particularly video games), education (such as medical or military training), and business (such as virtual meetings). Other types of VR-style technology include augmented reality and mixed reality, which are sometimes referred to as extended reality or XR, though definitions are changing due to the industry's infancy.
