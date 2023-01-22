@@ -12,3 +12,10 @@ The purpose of the current study was to determine how physiotherapists felt abou
 <h1>What Technologies Are Used in Physical Therapy?</h1> 
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
 Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
+<ol>
+<li>Motion Capture Tech
+A university in singapore created a Motion Capture Technology called Precise Marker Less that helps doctors and Physiotherapists for the consultations and diagnosis of the patients who need treatment after an injury or ongoing rehabilitation. Motion Capture Tech is based upon Machine Learning, and can perform several functions at one place. Mainly this technology helps in Marker-free motion capture (mocap) systems now on the market have been demonstrated to be less precise than current technology, which can offer 3D anatomical bone landmark positions with an accuracy of 10-15 millimeters, or roughly the breadth of an adult's little finger. </li>
+<li>Virtual reality VR is these days very popular amongst digitization of health and implementation of medical surgeries. VR can help in remotely practicing vaious rehabilitation methods of surgeries. Patients can perform excercises or movements at home by the use of VR, VR can also use easily tailored softwares that help in performing , tracking and implementation of movements. </li>
+<li> Telehealth OTPs can employ telehealth to assess patients, intervene as needed, educate patients, and prevent illness from getting worse. </li>
+ 
+ 
