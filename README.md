@@ -32,5 +32,7 @@ Digitally assisted care has the potential to improve patient management, health 
  <li> ecovery(https://play.google.com/ecovery) </li>
  Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
  <li> PhysiApp(https://play.google.com/physiapp) </li>
- 
+ Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
 
+ <Hi>Conclusion</hi>
+ Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
