@@ -36,3 +36,19 @@ Digitally assisted care has the potential to improve patient management, health 
 
  <Hi>Conclusion</hi>
  Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
+
+#<Hi> References </hi>
+<ol>
+<li> https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
+<li> https://www.mwtherapy.com/blog/5-inspiring-physical-therapy-innovations </li>
+<li> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757642/ </li>
+<li> https://www.mwtherapy.com/blog/6-new-technology-trends-in-physical-therapy-in-2022 </li>
+<li> https://inmotionvr.com/#:~:text=Using%20VR%20in%20physical%20therapy,new%20gamified%20world%20of%20healing. </li>
+<li> https://www.biospectrumasia.com/news/54/19995/singapore-develops-motion-capture-technology-to-aid-in-physiotherapy-and-athletics-.html </li>
+<li> https://www.physio-pedia.com/Virtual_Reality_for_Individuals_Affected_by_Stroke </li>
+<li> https://www.rehacare.com/en/Topic_of_the_Month/2022/October_2022_Brilliantly_digital_tech_applications_in_physio_and_rehab/Quo_vadis,_digitalization_in_rehabilitation_and_physiotherapy </li>
+<li> https://www.pixformance.com/physiotherapy/ </li>
+<li> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8367153/ </li>
+<li> https://www.physio-pedia.com/Telerehabilitation_and_Smartphone_Apps_in_Physiotherapy </li>
+<li> https://kaiahealth.com/technology/ </li>
+<li> https://ecovery.de/ </li>
