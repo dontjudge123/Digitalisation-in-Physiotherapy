@@ -28,7 +28,7 @@ Digitally assisted care has the potential to improve patient management, health 
 
 <hi>Applications Used in Digital Physiotherapy</hi>
 <ol>
- <li>  **[The Kaia App](https://play.google.com/kaiahealth)** </li>
- <li> **[ecovery](https://play.google.com/ecovery)** </li>
- <li> **[PhysiApp](https://play.google.com/physiapp)** </li>
+ <li> The Kaia App(https://play.google.com/kaiahealth) </li>
+ <li> ecovery(https://play.google.com/ecovery) </li>
+ <li> PhysiApp(https://play.google.com/physiapp) </li>
 
