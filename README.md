@@ -23,5 +23,12 @@ Any physical therapy practice that wants to streamline and simplify its operatio
 A university in singapore created a Motion Capture Technology called Precise Marker Less that helps doctors and Physiotherapists for the consultations and diagnosis of the patients who need treatment after an injury or ongoing rehabilitation. Motion Capture Tech is based upon Machine Learning, and can perform several functions at one place. Mainly this technology helps in Marker-free motion capture (mocap) systems now on the market have been demonstrated to be less precise than current technology, which can offer 3D anatomical bone landmark positions with an accuracy of 10-15 millimeters, or roughly the breadth of an adult's little finger. </li>
 <li>Virtual reality VR is these days very popular amongst digitization of health and implementation of medical surgeries. VR can help in remotely practicing vaious rehabilitation methods of surgeries. Patients can perform excercises or movements at home by the use of VR, VR can also use easily tailored softwares that help in performing , tracking and implementation of movements. </li>
 <li> Telehealth OTPs can employ telehealth to assess patients, intervene as needed, educate patients, and prevent illness from getting worse. </li>
- 
- 
+Digitally assisted care has the potential to improve patient management, health habits, and treatment satisfaction, all of which lead to better health outcomes and health system performance. Scalable DHIs can also overcome access and cost obstacles and can be tailored to fit the requirements and expectations of patients and clinicians. Nonetheless, research on DHI acceptability, adoption, and efficacy is limited , owing in part to the complexity and diverse nature of DHIs, as well as the lack of a standardized Digital Health Intervntion categorization system that is easily understood by both patients and health care professionals (HCPs). Furthermore, while research on DHI acceptability exists, assessing involvement with digital health requires more broad and thorough methods of evaluation than those now available.
+
+
+<hi>Applications Used in Digital Physiotherapy</hi>
+<ol>
+<li> 1. [The Kaia App] (https://play.google.com/store/apps/details?id=com.kaiahealth.app&hl=en&gl=US)</li>
+<li> 2. [ecovery] (https://play.google.com/store/apps/details?id=de.ecovery.app&hl=en&gl=US) </li>
+<li> 3. [PhysiApp] (https://play.google.com/store/apps/details?id=com.physitrack.physiapp&hl=en&gl=US)
+
