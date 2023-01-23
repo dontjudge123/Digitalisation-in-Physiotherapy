@@ -8,7 +8,7 @@ The purpose of the current study was to determine how physiotherapists felt abou
 <li>Laser Therapy at Low Levels (LLLT). Since its inception in 1967, lower-level laser therapy has been used to promote tissue regeneration and reduce inflammation, providing pain relief to patients with a variety of musculoskeletal diseases including osteoarthritis, TMD, and disc herniation.</li>
 <li>Telemedicine/Tele-Rehab. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
-<h1><strong>What Technologies Are Used in Physical Therapy?</h1></strong>
+<h1>What Technologies Are Used in Physical Therapy?</h1>
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
 Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
 <ol>
