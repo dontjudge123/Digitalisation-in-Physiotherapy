@@ -6,12 +6,12 @@ The purpose of the current study was to determine how physiotherapists felt abou
 ![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
 
 <ol>
-<li>Electrical Neuromuscular Stimulation (NMES). Neuromuscular Electrical Stimulation, which was first described in medical treatment literature in 1964, uses
+<li><strong>Electrical Neuromuscular Stimulation (NMES)</strong>. Neuromuscular Electrical Stimulation, which was first described in medical treatment literature in 1964, uses
  electrical impulses to target a particular muscle region to help patients regain range of motion and strength after an injury or surgery.</li>
-<li>Laser Therapy at Low Levels (LLLT). Since its inception in 1967, lower-level laser therapy has been used to promote tissue regeneration and reduce inflammation, providing pain relief to patients with a variety of musculoskeletal diseases including osteoarthritis, TMD, and disc herniation.</li>
-<li>Telemedicine/Tele-Rehab. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
+<li><strong>Laser Therapy at Low Levels (LLLT)</strong>. Since its inception in 1967, lower-level laser therapy has been used to promote tissue regeneration and reduce inflammation, providing pain relief to patients with a variety of musculoskeletal diseases including osteoarthritis, TMD, and disc herniation.</li>
+<li><strong>Telemedicine/Tele-Rehab</strong>. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
-What Technologies Are Used in Physical Therapy?
+<strong>What Technologies Are Used in Physical Therapy?</strong>
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
 Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
 
@@ -19,25 +19,27 @@ Any physical therapy practice that wants to streamline and simplify its operatio
 
 
 <ol>
-<li>Motion Capture Tech
+<li><strong>Motion Capture Tech</strong>
 A university in singapore created a Motion Capture Technology called Precise Marker Less that helps doctors and Physiotherapists for the consultations and diagnosis of the patients who need treatment after an injury or ongoing rehabilitation. Motion Capture Tech is based upon Machine Learning, and can perform several functions at one place. Mainly this technology helps in Marker-free motion capture (mocap) systems now on the market have been demonstrated to be less precise than current technology, which can offer 3D anatomical bone landmark positions with an accuracy of 10-15 millimeters, or roughly the breadth of an adult's little finger. </li>
-<li>Virtual reality VR is these days very popular amongst digitization of health and implementation of medical surgeries. VR can help in remotely practicing vaious rehabilitation methods of surgeries. Patients can perform excercises or movements at home by the use of VR, VR can also use easily tailored softwares that help in performing , tracking and implementation of movements. </li>
-<li> Telehealth OTPs can employ telehealth to assess patients, intervene as needed, educate patients, and prevent illness from getting worse. </li>
+<li><strong>Virtual reality VR</strong> is these days very popular amongst digitization of health and implementation of medical surgeries. VR can help in remotely practicing vaious rehabilitation methods of surgeries. Patients can perform excercises or movements at home by the use of VR, VR can also use easily tailored softwares that help in performing , tracking and implementation of movements. </li>
+<li><strong>Telehealth</strong> OTPs can employ telehealth to assess patients, intervene as needed, educate patients, and prevent illness from getting worse. </li>
 Digitally assisted care has the potential to improve patient management, health habits, and treatment satisfaction, all of which lead to better health outcomes and health system performance. Scalable DHIs can also overcome access and cost obstacles and can be tailored to fit the requirements and expectations of patients and clinicians. Nonetheless, research on DHI acceptability, adoption, and efficacy is limited , owing in part to the complexity and diverse nature of DHIs, as well as the lack of a standardized Digital Health Intervntion categorization system that is easily understood by both patients and health care professionals (HCPs). Furthermore, while research on DHI acceptability exists, assessing involvement with digital health requires more broad and thorough methods of evaluation than those now available.
 
-<hi>Applications Used in Digital Physiotherapy</hi>
+ https://www.youtube.com/watch?v=U_tztdUfIBM
+ 
+ <hi><strong>Applications Used in Digital Physiotherapy</strong></hi>
 <ol>
- <li> The Kaia App(https://play.google.com/kaiahealth) </li>
+ <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
  Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
- <li> ecovery(https://play.google.com/ecovery) </li>
+ <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
  Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
- <li> PhysiApp(https://play.google.com/physiapp) </li>
+ <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
  Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
 
- <Hi>Conclusion</hi>
+ <Hi><strong>Conclusion</strong></hi>
  Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
 
-#<Hi> References </hi>
+<Hi><strong>References</strong></hi>
 <ol>
 <li> https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
 <li> https://www.mwtherapy.com/blog/5-inspiring-physical-therapy-innovations </li>
@@ -52,3 +54,7 @@ Digitally assisted care has the potential to improve patient management, health 
 <li> https://www.physio-pedia.com/Telerehabilitation_and_Smartphone_Apps_in_Physiotherapy </li>
 <li> https://kaiahealth.com/technology/ </li>
 <li> https://ecovery.de/ </li>
+
+ <strong>Photos</strong>
+ https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg
+ https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg
