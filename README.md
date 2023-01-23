@@ -6,11 +6,8 @@ The purpose of the current study was to determine how physiotherapists felt abou
 ![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
 
 <ol>
-<li>Electrical Neuromuscular Stimulation (NMES). Neuromuscular Electrical Stimulation, which was first described in medical treatment literature in 1964, uses !
- 
- [Uploading digicare-digirehab-training-digitalisierung_1200x630.jpg…]()
- 
-electrical impulses to target a particular muscle region to help patients regain range of motion and strength after an injury or surgery.</li>
+<li>Electrical Neuromuscular Stimulation (NMES). Neuromuscular Electrical Stimulation, which was first described in medical treatment literature in 1964, uses
+ electrical impulses to target a particular muscle region to help patients regain range of motion and strength after an injury or surgery.</li>
 <li>Laser Therapy at Low Levels (LLLT). Since its inception in 1967, lower-level laser therapy has been used to promote tissue regeneration and reduce inflammation, providing pain relief to patients with a variety of musculoskeletal diseases including osteoarthritis, TMD, and disc herniation.</li>
 <li>Telemedicine/Tele-Rehab. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
