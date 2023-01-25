@@ -1,5 +1,3 @@
-remote_theme:forty-jekyll-theme
-
+theme:jekyll-theme-minimal-resume
 title:Digital health Interventions in Physiotherapy
-
 description:Developments in digitization of Physiotherapy.
