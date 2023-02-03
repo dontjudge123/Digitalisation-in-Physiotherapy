@@ -1,12 +1,3 @@
-remote_theme: vszhub/not-pure-poole
+remote_theme: rundocs/jekyll-rtd-theme
 title: Digital health Interventions in Physiotherapy
 description: Developments in digitization of Physiotherapy.
-texture:
-  title: Mahek Vora
-  tagline: Digital Health Interventions in Physiotherapy
-  date_format: "%b %-d, %Y"
-
-  social_links:
-  
-    github: voram
-    linkedIn: mahekv
