@@ -35,11 +35,13 @@ Digitally assisted care has the potential to improve patient management, health 
 <ol>
  <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
  Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=nMgZZj-_aKg&t=28s)
  <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
  Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=C45DFS5-jJw)
  <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
  Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
-
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=scEFL-X_fok)
  <H3><strong>Conclusion</strong></h3>
  Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
 
