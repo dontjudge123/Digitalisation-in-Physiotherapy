@@ -1,4 +1,7 @@
 <hi><strong>Innovations in Physiotherapy</strong></hi>
+
+![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216720435-2f039979-71ab-46ec-a0c2-a852d7b508f7.jpg)
+
 The current digital transition, which is having a significant impact on the healthcare industry, can be considered as a major issue in our contemporary society. While some medical specialties, like radiology, have already been significantly impacted by technological advancements, others that require physical examinations, like orthopedics, are still in the early stages of digital adaption. The field of physiotherapy is becoming more and more influenced by digital influences as it deals with close and frequent patient interaction as well as a variety of transportable digital knowledge.Utilizing electronic documentation can assist monitor measured physical parameters like range of motion (ROM) and improve labor productivity by standardizing workflow. Studies have revealed that a physiotherapeutic examination of the knee using digital tools (such as telehealth) appears to be possible and reliable in the setting of telehealth. Additionally, telemedicine provides the opportunity to contact a large number of patients, cut expenses, and provide access to patients in remote locations. Telehealth has been found to be equally beneficial as traditional hands-on treatment for surgery patients in some contexts. As a result, telehealth can improve patient satisfaction and health outcomes. Another key digital area is mobile health applications (mHealth), which have been shown to provide highly effective support for physiotherapeutic treatment.
 Wearable technology and mobile apps can be used together to monitor patients in real time and in great detail. A recent study shown that physiotherapists have favorable sentiments toward mHealth tools. However, a number of studies have revealed that patients and physiotherapists alike are generally concerned about data security, which continues to be a drawback of digitization.Along with numerous innovative digital tools and techniques, the discipline of physiotherapy also faces significant difficulties. For instance, some patient populations, such young children or the elderly, may find it challenging to use telehealth. Additionally, digital practices are not sufficiently reimbursed in some countries since health insurance companies do not recognize them. The legal structure, however, can be anticipated to be progressively adjusted as the healthcare system rapidly digitizes.
 Digitalization has been incredibly important, particularly during the SARS-CoV-19 outbreak. There is a clear demand for new digital tools as seen by the rising usage of telehealth as a result of governmental regulations and to protect both personnel and patients.
@@ -28,7 +31,7 @@ Digitally assisted care has the potential to improve patient management, health 
 
 [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=U_tztdUfIBM)
  
- <hi><strong>Applications Used in Digital Physiotherapy</strong></hi>
+ <h2><strong>Applications Used in Digital Physiotherapy</strong></h2>
 <ol>
  <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
  Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
@@ -37,10 +40,10 @@ Digitally assisted care has the potential to improve patient management, health 
  <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
  Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
 
- <Hi><strong>Conclusion</strong></hi>
+ <H3><strong>Conclusion</strong></h3>
  Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
 
-<Hi><strong>References</strong></hi>
+<H4><strong>References</strong></h4>
 <ol>
 <li> https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
 <li> https://www.mwtherapy.com/blog/5-inspiring-physical-therapy-innovations </li>
