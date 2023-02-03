@@ -7,7 +7,6 @@ Wearable technology and mobile apps can be used together to monitor patients in 
 Digitalization has been incredibly important, particularly during the SARS-CoV-19 outbreak. There is a clear demand for new digital tools as seen by the rising usage of telehealth as a result of governmental regulations and to protect both personnel and patients.
 The purpose of the current study was to determine how physiotherapists felt about digitalization and how much before the Covid-19 outbreak, digital aspects had already begun to ingrain themselves into their routine employment. Additionally, we sought to pinpoint variables that affected participants' sentiments, such as gender, place of employment, age, and - potentially biasedly - whether they participated online or in hard copy (mode of participation).Early revolutionary developments in physical therapy include the following:
 
-![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
 
 <ol>
 <li><strong>Electrical Neuromuscular Stimulation (NMES)</strong>. Neuromuscular Electrical Stimulation, which was first described in medical treatment literature in 1964, uses
@@ -15,6 +14,10 @@ The purpose of the current study was to determine how physiotherapists felt abou
 <li><strong>Laser Therapy at Low Levels (LLLT)</strong>. Since its inception in 1967, lower-level laser therapy has been used to promote tissue regeneration and reduce inflammation, providing pain relief to patients with a variety of musculoskeletal diseases including osteoarthritis, TMD, and disc herniation.</li>
 <li><strong>Telemedicine/Tele-Rehab</strong>. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
+
+
+![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
+
 
 <strong>What Technologies Are Used in Physical Therapy?</strong>
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
