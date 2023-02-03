@@ -15,6 +15,7 @@ The purpose of the current study was to determine how physiotherapists felt abou
 <li><strong>Laser Therapy at Low Levels (LLLT)</strong>. Since its inception in 1967, lower-level laser therapy has been used to promote tissue regeneration and reduce inflammation, providing pain relief to patients with a variety of musculoskeletal diseases including osteoarthritis, TMD, and disc herniation.</li>
 <li><strong>Telemedicine/Tele-Rehab</strong>. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
+
 <strong>What Technologies Are Used in Physical Therapy?</strong>
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
 Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
@@ -31,10 +32,14 @@ Digitally assisted care has the potential to improve patient management, health 
 
 [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=U_tztdUfIBM)
  
- <h2><strong>Applications Used in Digital Physiotherapy</strong></h2>
+
+
+<h2><strong>Applications Used in Digital Physiotherapy</strong></h2>
+
+
 <ol>
  <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
- Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
+Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
 [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=nMgZZj-_aKg&t=28s)
  <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
  Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
@@ -42,10 +47,15 @@ Digitally assisted care has the potential to improve patient management, health 
  <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
  Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
 [![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://www.youtube.com/watch?v=scEFL-X_fok)
- <H3><strong>Conclusion</strong></h3>
- Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
+
+<H3><strong>Conclusion</strong></h3>
+
+Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
+
 
 <H4><strong>References</strong></h4>
+
+
 <ol>
 <li> https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
 <li> https://www.mwtherapy.com/blog/5-inspiring-physical-therapy-innovations </li>
@@ -54,13 +64,14 @@ Digitally assisted care has the potential to improve patient management, health 
 <li> https://inmotionvr.com/#:~:text=Using%20VR%20in%20physical%20therapy,new%20gamified%20world%20of%20healing. </li>
 <li> https://www.biospectrumasia.com/news/54/19995/singapore-develops-motion-capture-technology-to-aid-in-physiotherapy-and-athletics-.html </li>
 <li> https://www.physio-pedia.com/Virtual_Reality_for_Individuals_Affected_by_Stroke </li>
-<li> https://www.rehacare.com/en/Topic_of_the_Month/2022/October_2022_Brilliantly_digital_tech_applications_in_physio_and_rehab/Quo_vadis,_digitalization_in_rehabilitation_and_physiotherapy </li>
+<li>https://www.rehacare.com/en/Topic_of_the_Month/2022/October_2022_Brilliantly_digital_tech_applications_in_physio_and_rehab/Quo_vadis,_digitalization_in_rehabilitation_and_physiotherapy </li>
 <li> https://www.pixformance.com/physiotherapy/ </li>
 <li> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8367153/ </li>
 <li> https://www.physio-pedia.com/Telerehabilitation_and_Smartphone_Apps_in_Physiotherapy </li>
 <li> https://kaiahealth.com/technology/ </li>
 <li> https://ecovery.de/ </li>
 
- <strong>Photos</strong>
+ <h5><strong>Photos</strong></h5>
  https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg
  https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg
+ https://www.healtheuropa.com/virtual-physiotherapy-is-just-as-effective-as-in-person-treatment/101579/
