@@ -1,4 +1,4 @@
-remote_theme: rundocs/jekyll-rtd-theme
+remote_theme: daviddarnes/alembic@main
 title: Digital health Interventions in Physiotherapy
 description: Developments in digitization of Physiotherapy.
 
