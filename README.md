@@ -34,50 +34,20 @@ A university in singapore created a Motion Capture Technology called Precise Mar
 <li><strong>Telehealth</strong> OTPs can employ telehealth to assess patients, intervene as needed, educate patients, and prevent illness from getting worse. </li>
 Digitally assisted care has the potential to improve patient management, health habits, and treatment satisfaction, all of which lead to better health outcomes and health system performance. Scalable DHIs can also overcome access and cost obstacles and can be tailored to fit the requirements and expectations of patients and clinicians. Nonetheless, research on DHI acceptability, adoption, and efficacy is limited , owing in part to the complexity and diverse nature of DHIs, as well as the lack of a standardized Digital Health Intervntion categorization system that is easily understood by both patients and health care professionals (HCPs). Furthermore, while research on DHI acceptability exists, assessing involvement with digital health requires more broad and thorough methods of evaluation than those now available.
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=U_tztdUfIBM"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_tztdUfIBM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h2><strong>Applications Used in Digital Physiotherapy</strong></h2>
-
 
 <ol>
  <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
 Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nMgZZj-_aKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
- Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
-<iframe
-    width="640"
-    height="480"
-    src= "(https://www.youtube.com/watch?v=C45DFS5-jJw)"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
- <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
- Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
-
-<iframe
-    width="640"
-    height="480"
-    src= "(https://www.youtube.com/watch?v=scEFL-X_fok)"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
+Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C45DFS5-jJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
+Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/scEFL-X_fok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p>
 <H1><strong>Conclusion</strong></h1>
 
@@ -102,7 +72,7 @@ Therefore Digitization of Medical sector has helped us a lot in carrying out med
 <li> https://ecovery.de/ </li>
 <p>
 <h1><strong>Image References</strong></h1>
-<li>https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg</li>
-<li>https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg</li>
-<li>https://www.healtheuropa.com/virtual-physiotherapy-is-just-as-effective-as-in-person-treatment/101579/</li>
+ <li>https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg</li>
+ <li>https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg</li>
+ <li>https://www.healtheuropa.com/virtual-physiotherapy-is-just-as-effective-as-in-person-treatment/101579/</li>
 </p>
