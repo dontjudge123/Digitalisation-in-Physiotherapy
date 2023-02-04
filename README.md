@@ -52,15 +52,7 @@ Digitally assisted care has the potential to improve patient management, health 
 <ol>
  <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
 Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
-<iframe
-    width="640"
-    height="480"
-    src= "(https://www.youtube.com/watch?v=nMgZZj-_aKg&t=28s)"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nMgZZj-_aKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
  Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
