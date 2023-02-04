@@ -4,22 +4,11 @@ lang: en-US
 title: Digitalisation In Physiotherapy
 email: voramahek7gmail.com
 description: "Learning how the progress of DIgital Health has hepled in Physiotherapy Treatments"
-baseurl: ""
-url: ""
 repository: "voram/Digitalisation-in-Physiotherapy"
 author:
   name: Mahek Vora
-  twitter: 
-  picture: https://github.com/voram/Digitalisation-in-Physiotherapy/blob/d93fa84c651ec52bb5c83be54fe05f014a7591f8/Passport%20Size%20Photo.jpg
-twitter_username: 
 github_username: voram
-logo: /assets/icons/basically-basic-logo-light.svg
-google_analytics: 
-disqus:
-  shortname:
-search: true
-search_full_content: true
-search_provider: lunr
+logo: /assets/icons/basically-basic-logo-light.svg 
 algolia:
   application_id: # YOUR_APPLICATION_ID
   index_name: # YOUR_INDEX_NAME
@@ -32,53 +21,8 @@ highlighter: rouge
 lsi: false
 incremental: false
 
-# Markdown Processing
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-# Sass/SCSS
-sass:
-  sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
 # Outputting
 permalink: /:categories/:title/
 timezone: Germany/Berlin # https://en.wikipedia.org/wiki/Time_in_Germany
 
-# Plugins
-plugins:
-  - jekyll-remote-theme
 
-# Jekyll Feed
-feed:
-  path: atom.xml
-#
-# Collections
-collections:
-  recipes:
-    output: true
-    permalink: /:collection/:path/
-
-# Front Matter Defaults
-defaults:
-  # _about
-  - scope:
-      path: "_about"
-      type: posts
-    values:
-      layout: about
-      read_time: true
-  # _blog
-  - scope:
-      path: "_blog"
-      type: blog
-    values:
-      layout: about
-      read_time: true
