@@ -1,13 +1,4 @@
 remote_theme: jekyll-text-theme
 text_skin: "orange"
 highlight_theme: "tomorrow-night-bright"
-author:
-  type      : # "person" (default), "organization"
-  name      : Mahek Vora
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
-  email     : voramahek7@gmail.com
-  linkedin  : # "mahekv" 
-  github    : # "voram" 
-  
+
