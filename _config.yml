@@ -1,4 +1,1 @@
-remote_theme: jekyll-text-theme
-text_skin: "orange"
-highlight_theme: "tomorrow-night-bright"
-
+remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
