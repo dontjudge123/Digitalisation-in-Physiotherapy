@@ -1,4 +1,4 @@
-<hi><strong>Innovations in Physiotherapy</strong></hi>
+<h1><strong>Introduction</strong></h1>
 
 ![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216720435-2f039979-71ab-46ec-a0c2-a852d7b508f7.jpg)
 <p>
@@ -7,7 +7,6 @@ The current digital transition, which is having a significant impact on the heal
 <p>
 Wearable technology and mobile apps can be used together to monitor patients in real time and in great detail. A recent study shown that physiotherapists have favorable sentiments toward mHealth tools. However, a number of studies have revealed that patients and physiotherapists alike are generally concerned about data security, which continues to be a drawback of digitization.Along with numerous innovative digital tools and techniques, the discipline of physiotherapy also faces significant difficulties. For instance, some patient populations, such young children or the elderly, may find it challenging to use telehealth. Additionally, digital practices are not sufficiently reimbursed in some countries since health insurance companies do not recognize them. The legal structure, however, can be anticipated to be progressively adjusted as the healthcare system rapidly digitizes.
 </p>
-
 Digitalization has been incredibly important, particularly during the SARS-CoV-19 outbreak. There is a clear demand for new digital tools as seen by the rising usage of telehealth as a result of governmental regulations and to protect both personnel and patients.
 The purpose of the current study was to determine how physiotherapists felt about digitalization and how much before the Covid-19 outbreak, digital aspects had already begun to ingrain themselves into their routine employment. Additionally, we sought to pinpoint variables that affected participants' sentiments, such as gender, place of employment, age, and - potentially biasedly - whether they participated online or in hard copy (mode of participation).Early revolutionary developments in physical therapy include the following:
 
@@ -19,15 +18,14 @@ The purpose of the current study was to determine how physiotherapists felt abou
 </ol>
 
 
-<align="center">![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
+ ![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
 
 
 <strong>What Technologies Are Used in Physical Therapy?</strong>
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
 Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
 
-<align="center">![Coronakrise-Pixformance-Teletherapie-Funktionelles-Training](https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg)
-
+![Coronakrise-Pixformance-Teletherapie-Funktionelles-Training](https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg)
 
 <ol>
 <li><strong>Motion Capture Tech</strong>
@@ -39,13 +37,13 @@ Digitally assisted care has the potential to improve patient management, health 
 <iframe
     width="640"
     height="480"
-    src="https://www.youtube.com/embed/UmX4kyB2wfg"
+    src="https://www.youtube.com/watch?v=U_tztdUfIBM"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
 >
 </iframe>
-"https://www.youtube.com/watch?v=U_tztdUfIBM" 
+
 
 
 <h2><strong>Applications Used in Digital Physiotherapy</strong></h2>
@@ -54,25 +52,47 @@ Digitally assisted care has the potential to improve patient management, health 
 <ol>
  <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
 Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
-<iframe> width="650" height="380" src="(https://www.youtube.com/watch?v=nMgZZj-_aKg&t=28s)" title="Kaia App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+    width="640"
+    height="480"
+    src= "(https://www.youtube.com/watch?v=nMgZZj-_aKg&t=28s)"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
  <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
  Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
-<iframe> width="650" height="380" src="(https://www.youtube.com/watch?v=C45DFS5-jJw)" title="Ecovery App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe
+    width="640"
+    height="480"
+    src= "(https://www.youtube.com/watch?v=C45DFS5-jJw)"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
  <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
  Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
-<iframe> width="650" height="380" src="(https://www.youtube.com/watch?v=scEFL-X_fok)" title="Physii App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
-<H3><strong>Conclusion</strong></h3>
+<iframe
+    width="640"
+    height="480"
+    src= "(https://www.youtube.com/watch?v=scEFL-X_fok)"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+<p>
+<H1><strong>Conclusion</strong></h1>
 
 Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
+</p>
 
-
-<H4><strong>References</strong></h4>
-
-
+<H1><strong>References</strong></h1>
 <ol>
 <li> Katharina Estel, Julian Scherer, Heiko Dahl, Eva Wolber, Noah D. Forsat & David A. Back 
  https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
@@ -88,8 +108,9 @@ Therefore Digitization of Medical sector has helped us a lot in carrying out med
 <li> https://www.physio-pedia.com/Telerehabilitation_and_Smartphone_Apps_in_Physiotherapy </li>
 <li> https://kaiahealth.com/technology/ </li>
 <li> https://ecovery.de/ </li>
-
- <h5><strong>Photos</strong></h5>
- https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg
- https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg
- https://www.healtheuropa.com/virtual-physiotherapy-is-just-as-effective-as-in-person-treatment/101579/
+<p>
+<h1><strong>Photos</strong></h1>
+<li>https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg</li>
+<li>https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg</li>
+<li>https://www.healtheuropa.com/virtual-physiotherapy-is-just-as-effective-as-in-person-treatment/101579/</li>
+</p>
