@@ -1,6 +1,6 @@
 remote_theme: jekyll-text-theme
-text_skin: "ocean"
-highlight_theme: "tomorrow-night-bright"
+text_skin: "ocean" (default)
+highlight_theme: "tomorrow-night-bright" (default)
 author:
   type      : # "person" (default), "organization"
   name      : Mahek Vora
