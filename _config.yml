@@ -1,51 +1,20 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-skin: sea
-t:
-  skip_links: "Skip links"
-  skip_primary_nav: "Skip to primary navigation"
-  skip_content: "Skip to content"
-  skip_footer: "Skip to footer"
-  menu: "Menu"
-  search: "Search"
-  site_search: "Site Search"
-  results_found: "Result(s) found"
-  search_placeholder_text: "Enter your search term..."
-  home: "Home"
-  newer: "Newer"
-  older: "Older"
-  email: "Email"
-  subscribe: "Subscribe"
-  read_more: "Read More"
-  posts: "Posts"
-  page: "Page"
-  of: "of"
-  min_read: "min read"
-  present: "Present"
-  cv_awards: "Awards"
-  cv_summary_contact: "Contact"
-  cv_summary_contact_email: "Email"
-  cv_summary_contact_phone: "Phone"
-  cv_summary_contact_website: "Website"
-  cv_location: "Location"
-  cv_education: "Education"
-  cv_education_courses: "Courses"
-  cv_interests: "Interests"
-  cv_languages: "Languages"
-  cv_publications: "Publications"
-  cv_references: "References"
-  cv_skills: "Skills"
-  cv_volunteer: "Volunteer"
-  cv_work: "Work"
-
-# Google Fonts
-google_fonts:
-  - name: "Fira Sans"
-    weights: "400,400i,600,600i"
-
-# Link to specific internal pages in the navigation.
-# Create a custom list to override the default setting of including links to all
-# pages that have a `title`. Add raw page paths in the order you'd like.
-
-navigation_pages:
-  - about.md
-  - cv.md
+skin: "steel"
+layout: "default"
+{% include page-intro.html %}
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner">
+    <div class="entry-wrap">
+      <div class="entry-content">
+        {{ Hello, I am a first year Health Informatics student. I am from India, and my age is 22 Years old. I can speak Hindi, Gujarati, German and English.
+        Thanks to be here  :) }}
+      </div>
+      <aside class="entry-sidebar">
+        {% include author %}
+        {% if author_picture %}
+          <img class="author-picture" src="{{  }}" alt="{{ Mahek Vora }}">
+        {% endif %}
+      </aside>
+    </div>
+  </div>
+</main>
