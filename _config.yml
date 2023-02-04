@@ -17,55 +17,46 @@ google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "itim"
-var tocToggle = document.getElementById('toc-toggle');
-var tableOfContents = document.getElementById('markdown-toc');
+  ---
+---
 
-function showToc(elem) {
-  function getHeight() {
-    elem.style.display = 'block';
+@charset "utf-8";
 
-    var height = elem.scrollHeight + 'px';
+@import "so-simple/functions";
+@import "so-simple/variables";
+@import "so-simple/notices";
 
-    elem.style.disply = '';
+/* Colors */
+$base-color: #eaeaea !default;
+$text-color: #eaeaea !default;
+$accent-color: #00adb5 !default;
+$nav-color: #aeaeae !default;
+$background-color: #252a34 !default;
+$nav-background-color: mix(#000, $background-color, 30%) !default;
+$code-background-color: mix(#000, $background-color, 15%) !default;
+$border-color: tint($base-color, 80%) !default;
 
-    return height;
-  };
+$primary-color: white !default;
+$success-color: rgb(48, 209, 88) !default;
+$warning-color: rgb(255, 214, 10) !default;
+$danger-color: rgb(255, 69, 58) !default;
+$info-color: rgb(100, 210, 255) !default;
 
-  var height = getHeight();
-  elem.classList.add('js-toc-is-open');
-  elem.style.height = height;
+$base00: #263238;
+$base01: #2e3c43;
+$base02: #314549;
+$base03: #546e7a;
+$base04: #b2ccd6;
+$base05: #eeffff;
+$base06: #eeffff;
+$base07: #ffffff;
+$base08: #f07178;
+$base09: #f78c6c;
+$base0a: #ffcb6b;
+$base0b: #c3e88d;
+$base0c: #89ddff;
+$base0d: #82aaff;
+$base0e: #c792ea;
+$base0f: #ff5370;
 
-  window.setTimeout(function() {
-    elem.style.height = '';
-  }, 350);
-};
-
-function hideToc(elem) {
-  elem.style.height = elem.scrollHeight + 'px';
-
-  window.setTimeout(function() {
-    elem.style.height = '0';
-  }, 1);
-
-  window.setTimeout(function() {
-    elem.classList.remove('js-toc-is-open');
-  }, 350);
-};
-
-function toggleToc(elem) {
-
-  tocToggle.classList.toggle('js-toc-is-open');
-
-  if (elem.classList.contains('js-toc-is-open')) {
-    hideToc(elem);
-    return;
-  }
-
-  showToc(elem);
-};
-
-if (tocToggle) {
-  tocToggle.addEventListener("click", function(event) {
-    toggleToc(tableOfContents);
-  });
-}
+@import "so-simple/skin";
