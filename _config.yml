@@ -1,16 +1,5 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 skin: sea
-google_fonts:
-  - name: "Playfair Display"
-    weights: "400,400i,600,600i"
-  - name: "Playfair Display
-  {% include icon-github.html username=voram label='GitHub' %}"
-  <span class="icon icon--twitter">{% include icon-twitter.svg %}</span>
-  
- # Theme Skin
-skin: sea
-
-# Theme Text
 t:
   skip_links: "Skip links"
   skip_primary_nav: "Skip to primary navigation"
