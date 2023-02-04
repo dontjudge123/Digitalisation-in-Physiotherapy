@@ -8,13 +8,12 @@ layout: default
   <div class="inner">
     <div class="entry-wrap">
       <div class="entry-content">
-        {{ Hello, I am a first year Health Informatics student. I am from India, and my age is 22 Years old. I can speak Hindi, Gujarati, German and English.
-        Thanks to be here  :) }}
+        {{ content }}
       </div>
       <aside class="entry-sidebar">
         {% include author %}
         {% if author_picture %}
-          <img class="author-picture" src="{{ pic }}" alt="{{ Mahek Vora }}">
+          <img class="author-picture" src="{{ author_picture }}" alt="{{ author_name }}">
         {% endif %}
       </aside>
     </div>
