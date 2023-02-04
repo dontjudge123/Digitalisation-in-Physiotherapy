@@ -63,16 +63,17 @@ Therefore Digitization of Medical sector has helped us a lot in carrying out med
 
 
 <ol>
-<li> https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
+<li> Katharina Estel, Julian Scherer, Heiko Dahl, Eva Wolber, Noah D. Forsat & David A. Back 
+ https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
 <li> https://www.mwtherapy.com/blog/5-inspiring-physical-therapy-innovations </li>
-<li> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757642/ </li>
+<li>Sue Dahl-popolizio, DBH, OTR/L,1 Heidi Carpenter, OTD, OTR/L,2 Melissa Coronado, OTS,3 Nicholas J. Popolizio,4 and Connor Swanson, OTS3 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7757642/ </li>
 <li> https://www.mwtherapy.com/blog/6-new-technology-trends-in-physical-therapy-in-2022 </li>
 <li> https://inmotionvr.com/#:~:text=Using%20VR%20in%20physical%20therapy,new%20gamified%20world%20of%20healing. </li>
 <li> https://www.biospectrumasia.com/news/54/19995/singapore-develops-motion-capture-technology-to-aid-in-physiotherapy-and-athletics-.html </li>
 <li> https://www.physio-pedia.com/Virtual_Reality_for_Individuals_Affected_by_Stroke </li>
 <li>https://www.rehacare.com/en/Topic_of_the_Month/2022/October_2022_Brilliantly_digital_tech_applications_in_physio_and_rehab/Quo_vadis,_digitalization_in_rehabilitation_and_physiotherapy </li>
 <li> https://www.pixformance.com/physiotherapy/ </li>
-<li> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8367153/ </li>
+<li>Mark Merolli, BPhysio(Hons), PhD,corresponding author1,2 Rana S Hinman, BPhysio(Hons), PhD,2 Belinda J Lawford, BHS, BMedSci, PhD,2 Dawn Choo, MSpeechPath, PhD,1,3 and Kathleen Gray, PhD1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8367153/ </li>
 <li> https://www.physio-pedia.com/Telerehabilitation_and_Smartphone_Apps_in_Physiotherapy </li>
 <li> https://kaiahealth.com/technology/ </li>
 <li> https://ecovery.de/ </li>
