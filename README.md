@@ -1,6 +1,6 @@
 <h1><strong>Introduction</strong></h1>
 
-(iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216720435-2f039979-71ab-46ec-a0c2-a852d7b508f7.jpg)
+(https://user-images.githubusercontent.com/116555337/216720435-2f039979-71ab-46ec-a0c2-a852d7b508f7.jpg)
 
 <p>
 The current digital transition, which is having a significant impact on the healthcare industry, can be considered as a major issue in our contemporary society. While some medical specialties, like radiology, have already been significantly impacted by technological advancements, others that require physical examinations, like orthopedics, are still in the early stages of digital adaption. The field of physiotherapy is becoming more and more influenced by digital influences as it deals with close and frequent patient interaction as well as a variety of transportable digital knowledge.Utilizing electronic documentation can assist monitor measured physical parameters like range of motion (ROM) and improve labor productivity by standardizing workflow. Studies have revealed that a physiotherapeutic examination of the knee using digital tools (such as telehealth) appears to be possible and reliable in the setting of telehealth. Additionally, telemedicine provides the opportunity to contact a large number of patients, cut expenses, and provide access to patients in remote locations. Telehealth has been found to be equally beneficial as traditional hands-on treatment for surgery patients in some contexts. As a result, telehealth can improve patient satisfaction and health outcomes. Another key digital area is mobile health applications (mHealth), which have been shown to provide highly effective support for physiotherapeutic treatment.
@@ -50,14 +50,12 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allo
 <p>
 <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
 Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C45DFS5-jJw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </P>
 <p>
 <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
 Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/scEFL-X_fok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; 
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </P>
