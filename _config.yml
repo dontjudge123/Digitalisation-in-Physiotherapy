@@ -1,7 +1,5 @@
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
 topic: 
 Description: 
-theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
@@ -11,7 +9,7 @@ baseurl: # the subpath of your site, e.g. "/blog"
 url:  "https://voram.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
-read_time: true
+read_time: 
 words_per_minute: # 200
 mathjax:
   enable: # MathJax equations, e.g. true, false (default)
