@@ -1,7 +1,9 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-skin: "steel"
-layout: "default"
+skin: steel
+layout: default
+
 {% include page-intro.html %}
+
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <div class="entry-wrap">
@@ -12,7 +14,7 @@ layout: "default"
       <aside class="entry-sidebar">
         {% include author %}
         {% if author_picture %}
-          <img class="author-picture" src="{{  }}" alt="{{ Mahek Vora }}">
+          <img class="author-picture" src="{{ pic }}" alt="{{ Mahek Vora }}">
         {% endif %}
       </aside>
     </div>
