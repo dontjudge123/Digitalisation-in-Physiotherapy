@@ -1,6 +1,8 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 skin: steel
+---
 layout: default
+---
 
 {% include page-intro.html %}
 
@@ -8,7 +10,7 @@ layout: default
   <div class="inner">
     <div class="entry-wrap">
       <div class="entry-content">
-        {{ content }}
+        {{ Hi! I am Mahek Vora, currently in First year Health Informatics. I am from India, and 22 Years old. Thanks for bieng here on my Blog! }}
       </div>
       <aside class="entry-sidebar">
         {% include author %}
