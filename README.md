@@ -33,7 +33,7 @@ A university in singapore created a Motion Capture Technology called Precise Mar
 <li><strong>Telehealth</strong> OTPs can employ telehealth to assess patients, intervene as needed, educate patients, and prevent illness from getting worse. </li>
 Digitally assisted care has the potential to improve patient management, health habits, and treatment satisfaction, all of which lead to better health outcomes and health system performance. Scalable DHIs can also overcome access and cost obstacles and can be tailored to fit the requirements and expectations of patients and clinicians. Nonetheless, research on DHI acceptability, adoption, and efficacy is limited , owing in part to the complexity and diverse nature of DHIs, as well as the lack of a standardized Digital Health Intervntion categorization system that is easily understood by both patients and health care professionals (HCPs). Furthermore, while research on DHI acceptability exists, assessing involvement with digital health requires more broad and thorough methods of evaluation than those now available.
 
-<iframe> width="350" height="380" src="https://www.youtube.com/watch?v=U_tztdUfIBM" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe> width="550" height="580" src="https://www.youtube.com/watch?v=U_tztdUfIBM" title="YouTube video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
 
 
@@ -43,15 +43,15 @@ Digitally assisted care has the potential to improve patient management, health 
 <ol>
  <li><strong>The Kaia App</strong>(https://play.google.com/kaiahealth) </li>
 Kaia is a AI based digital health company. Kaia assists patients in managing their discomfort at home. Kaia's method provides a drug-free solution through body and mind workouts.  Kaia is free of charge to individuals subscribed to it.
-<iframe> width="250" height="280" src="(https://www.youtube.com/watch?v=nMgZZj-_aKg&t=28s)" title="Kaia App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe> width="550" height="380" src="(https://www.youtube.com/watch?v=nMgZZj-_aKg&t=28s)" title="Kaia App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <li><strong>ecovery(https://play.google.com/ecovery)</strong> </li>
  Ecovery has a tagline saying Physiotherapy at home and it completely complies to it. It is a pocket of possiblities to treat any injury or disablity at the fingerprints. 
-<iframe> width="250" height="280" src="(https://www.youtube.com/watch?v=C45DFS5-jJw)" title="Ecovery App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe> width="550" height="380" src="(https://www.youtube.com/watch?v=C45DFS5-jJw)" title="Ecovery App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
  <li> <strong>PhysiApp(https://play.google.com/physiapp)</strong> </li>
  Physiapp is a platform where Physiotherapists can create and prescribe rehabilation programs and conduct Consulations with the help of Telehealth.
-<iframe> width="250" height="280" src="(https://www.youtube.com/watch?v=scEFL-X_fok)" title="Physii App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe> width="550" height="380" src="(https://www.youtube.com/watch?v=scEFL-X_fok)" title="Physii App" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 <H3><strong>Conclusion</strong></h3>
