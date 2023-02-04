@@ -3,26 +3,8 @@ skin: "steel"
 lang: en-US
 title: Digitalisation In Physiotherapy
 email: voramahek7gmail.com
-description: "Learning how the progress of DIgital Health has hepled in Physiotherapy Treatments"
+description: "Learning how the progress of Digital Health has hepled in Physiotherapy Treatments"
 repository: "voram/Digitalisation-in-Physiotherapy"
 author:
   name: Mahek Vora
 github_username: voram
-logo: /assets/icons/basically-basic-logo-light.svg 
-algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
-
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-incremental: false
-
-# Outputting
-permalink: /:categories/:title/
-timezone: Germany/Berlin # https://en.wikipedia.org/wiki/Time_in_Germany
-
-
