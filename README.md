@@ -109,7 +109,7 @@ Therefore Digitization of Medical sector has helped us a lot in carrying out med
 <li> https://kaiahealth.com/technology/ </li>
 <li> https://ecovery.de/ </li>
 <p>
-<h1><strong>Photos</strong></h1>
+<h1><strong>Image References</strong></h1>
 <li>https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg</li>
 <li>https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg</li>
 <li>https://www.healtheuropa.com/virtual-physiotherapy-is-just-as-effective-as-in-person-treatment/101579/</li>
