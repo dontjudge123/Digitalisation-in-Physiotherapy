@@ -25,9 +25,9 @@ remote_theme: "jeffreytse/jekyll-theme-yat"
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: 
+email: voramahek7@gmail.com
+author: VoraM
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
