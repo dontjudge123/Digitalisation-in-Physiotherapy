@@ -3,7 +3,7 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Digitalisation in Physiotherapy"
 description: "Innovations and Developments in Physiotherapy"
-baseurl: # the subpath of your site, e.g. "/blog"
+baseurl: https://voram.github.io/Digitalisation-in-Physiotherapy/
 url:  
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
