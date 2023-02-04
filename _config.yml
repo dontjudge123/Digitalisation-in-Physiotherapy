@@ -1,59 +1,17 @@
 remote_theme: "jeffreytse/jekyll-theme-yat"
-# Welcome to Jekyll!
-#
-# About Theme
-#
-# Yet another theme for elegant writers with modern flat style and beautiful
-# night/dark mode.
-#
-# Website: https://github.com/jeffreytse/jekyll-theme-yat
-#
-# You can do anything you want, including projects for your clients, as long
-# as you mention an attribution back (credit links in footer or project).
-# See the LICENCE file.
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you
-# use 'bundle exec jekyll serve'. If you change this file, please restart
-# the server process.
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 
 title: 
 email: voramahek7@gmail.com
 author: VoraM
+copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 
-# Copyright setting
-# You can use any html code, currently below placeholders are available:
-# * current year: {currentYear}
-# * author: {author} (Value is the same as site.author)
-# * copyright: (c) - ©
-# * copyleft: (cleft)
-# * sound recording copyright: (p) - ℗
-#
-# For example:
-#   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
-#
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
-
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: I am writing a blog discussing the developments of Digital Health in the field of Physiotherapy.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
-# Yat date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+
 yat:
   date_format: "%b %d, %Y"
 
@@ -159,13 +117,13 @@ yat:
 #   home:
 #     heading: "Digitalization in Physiotherapy"
 #     subheading: ""
-#     banner: "https://www.google.com/search?q=digital+health&tbm=isch&ved=2ahUKEwj96IDE0vz8AhXIgf0HHeB-DXkQ2-cCegQIABAA&oq=digital+health&gs_lcp=CgNpbWcQAzIECCMQJzIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDIFCAAQgAQyBQgAEIAEMgUIABCABDoHCAAQgAQQGFCVEljeJmC_M2gAcAB4AIABVIgBsASSAQE4mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=1LfeY_2uBsiD9u8P4P21yAc&bih=649&biw=1396&rlz=1C1ONGR_deDE1029DE1029#imgrc=QJdss01y-2abMM"
+#     banner: 
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
 # banner:
-#   video: Youtube Video            # Video banner source
+#   video: null            # Video banner source
 #   loop: true              # Video loop
 #   volume: 0               # Video volume (100% is 1.0)
 #   start_at: 0             # Video start time
