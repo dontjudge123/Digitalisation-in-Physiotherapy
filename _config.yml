@@ -1,12 +1,10 @@
-topic: 
-Description: 
 remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Digitalisation in Physiotherapy"
 description: "Innovations and Developments in Physiotherapy"
 baseurl: # the subpath of your site, e.g. "/blog"
-url:  "https://voram.github.io"
+url:  
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: 
