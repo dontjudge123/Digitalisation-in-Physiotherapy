@@ -1,4 +1,4 @@
-remote_theme: "mmistakes/so-simple-theme@3.2.0
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Digitalisation in Physiotherapy"
