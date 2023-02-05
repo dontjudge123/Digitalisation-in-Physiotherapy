@@ -9,15 +9,4 @@ author:
   name: Mahek Vora
 github_username: voram
 alt_title: "Learning how the progress of Digital Health has hepled in Physiotherapy Treatments"
-sub_title: "The name says it all"
-actions:
-  - label: "Learn More"
-    icon: github  # references name of svg icon, see full list below
-    url: "http://url-goes-here.com"
-  - label: "Download"
-    icon: download  # references name of svg icon, see full list below
-    url: "http://url-goes-here.com"
-image:
-author:
-  name: Mahek
-comments: True
+sub_title: 
