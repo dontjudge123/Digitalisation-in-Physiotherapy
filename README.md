@@ -1,5 +1,5 @@
 <h1><strong>Introduction</strong></h1>
-
+<img src="![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216795029-f4c23d34-d022-4d79-934d-e0004fc99c20.jpg)" class="align-center" alt="">
 ![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216795029-f4c23d34-d022-4d79-934d-e0004fc99c20.jpg)
 
 <p>
