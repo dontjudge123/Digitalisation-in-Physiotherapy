@@ -1,3 +1,5 @@
+<h1>Introduction</h1>
+
 ![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216822989-600425c1-8ca8-4536-be75-702d89beccf1.jpg)
 
 <p>
@@ -7,24 +9,16 @@ The current digital transition, which is having a significant impact on the heal
 Wearable technology and mobile apps can be used together to monitor patients in real time and in great detail. A recent study shown that physiotherapists have favorable sentiments toward mHealth tools. However, a number of studies have revealed that patients and physiotherapists alike are generally concerned about data security, which continues to be a drawback of digitization.Along with numerous innovative digital tools and techniques, the discipline of physiotherapy also faces significant difficulties. For instance, some patient populations, such young children or the elderly, may find it challenging to use telehealth. Additionally, digital practices are not sufficiently reimbursed in some countries since health insurance companies do not recognize them. The legal structure, however, can be anticipated to be progressively adjusted as the healthcare system rapidly digitizes.
 </p>
 Digitalization has been incredibly important, particularly during the SARS-CoV-19 outbreak. There is a clear demand for new digital tools as seen by the rising usage of telehealth as a result of governmental regulations and to protect both personnel and patients.The purpose of the current study was to determine how physiotherapists felt about digitalization and how much before the Covid-19 outbreak, digital aspects had already begun to ingrain themselves into their routine employment. Additionally, we sought to pinpoint variables that affected participants' sentiments, such as gender, place of employment, age, and - potentially biasedly - whether they participated online or in hard copy (mode of participation).Early revolutionary developments in physical therapy include the following:
-
+<p>
+<h2> Types of Digital Medical Treatment </h2>
 <ol>
-<li><strong>Electrical Neuromuscular Stimulation (NMES)</strong>. Neuromuscular Electrical Stimulation, which was first described in medical treatment literature in 1964, uses
- electrical impulses to target a particular muscle region to help patients regain range of motion and strength after an injury or surgery.</li>
+<li><strong>Electrical Neuromuscular Stimulation (NMES)</strong>. Neuromuscular Electrical Stimulation, which was first described in medical treatment literature in 1964, uses electrical impulses to target a particular muscle region to help patients regain range of motion and strength after an injury or surgery.</li>
 <li><strong>Laser Therapy at Low Levels (LLLT)</strong>. Since its inception in 1967, lower-level laser therapy has been used to promote tissue regeneration and reduce inflammation, providing pain relief to patients with a variety of musculoskeletal diseases including osteoarthritis, TMD, and disc herniation.</li>
 <li><strong>Telemedicine/Tele-Rehab</strong>. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
 
-
-
-
 <strong>What Technologies Are Used in Physical Therapy?</strong>
-In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
-Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
-
-
-
-
+In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
 
 <ol>
 <li><strong>Motion Capture Tech</strong>
@@ -58,12 +52,13 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allo
 clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </P>
 <p>
-<H1><strong>Conclusion</strong></h1>
+<H2><strong>Conclusion</strong></h2>
 
 Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
 </p>
-
-<H1><strong>References</strong></h1>
+<h2> Target Audience </h2>
+Physiotherapists, Physiotherapy patients, students, Elderly people, Pregnant Ladies and researchers.
+<H2><strong>References</strong></h2>
 <ol>
 <li> Katharina Estel, Julian Scherer, Heiko Dahl, Eva Wolber, Noah D. Forsat & David A. Back 
  https://bmchealthservres.biomedcentral.com/articles/10.1186/s12913-022-07931-5 </li>
