@@ -1,5 +1,3 @@
-<h1><strong>Introduct</strong></h1>
-
 ![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216822989-600425c1-8ca8-4536-be75-702d89beccf1.jpg)
 
 <p>
