@@ -57,9 +57,9 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allo
 </p>
 <H2>Conclusion</h2>
 Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
-
-<h2> Target Audience </h2>
+<p><h2> Target Audience </h2>
 Physiotherapists, Physiotherapy patients, students, Elderly people, Pregnant Ladies and researchers.
+</p>
 <H2>References</h2>
 <ol>
 <li> Katharina Estel, Julian Scherer, Heiko Dahl, Eva Wolber, Noah D. Forsat & David A. Back 
