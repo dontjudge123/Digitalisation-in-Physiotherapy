@@ -3,7 +3,6 @@ Title: Digital Health Blog
 Description: Final exam for General Business Administration. Martikl Nr. 22206931
 #Themeskin
 skin: steel
-
 lang: en-US
 email: voramahek7gmail.com
 description: "Learning how the progress of Digital Health has hepled in Physiotherapy Treatments"
@@ -11,4 +10,3 @@ repository: "voram/Digitalisation-in-Physiotherapy"
 author:
   name: Mahek Vora
 github_username: voram
-git commit --allow-empty -m "Force rebuild of site"
