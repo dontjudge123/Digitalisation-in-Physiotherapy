@@ -1,6 +1,8 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
+minima
+  skin:dark
 lang: en-US
-title: Innovation and Development in Digital Physiotherapy
+title: Digital Innovation in Physiotherapy
 subtitle: How Physiotherapy has changed over time?, New technologies , Overall Benefits
 email: voramahek7@gmail.com
 description: 
