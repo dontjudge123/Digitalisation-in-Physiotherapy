@@ -55,7 +55,6 @@ clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allo
 </P>
 <p>
 <H2>Conclusion</h2>
-
 Therefore Digitization of Medical sector has helped us a lot in carrying out medical treatments at the space of our choice and on fingerprints. This is super useful during Pandemic like Covid-19. Physiotherapy is getting digitized day by day with the help of AI and there is much more innovation to come in the future. 
 </p>
 <h2> Target Audience </h2>
@@ -77,6 +76,7 @@ Physiotherapists, Physiotherapy patients, students, Elderly people, Pregnant Lad
 <li> https://kaiahealth.com/technology/ </li>
 <li> https://ecovery.de/ </li>
 <p>
-<h1>Image References</h1>
+<h1>
+Image References</h1>
  <li>https://www.healtheuropa.com/virtual-physiotherapy-is-just-as-effective-as-in-person-treatment/101579/</li>
-</p>
+
