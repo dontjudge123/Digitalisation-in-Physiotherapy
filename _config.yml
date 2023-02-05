@@ -1,5 +1,6 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 lang: en-US
+title: "Markup: Title *with* **Markdown**""
 title: 
 email: voramahek7@gmail.com
 description: 
