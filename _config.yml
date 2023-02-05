@@ -1,6 +1,7 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 Description: Final exam for General Business Administration. Martikl Nr. 22206931
-skin: steel
+mmistakes/jekyll-theme-basically-basic@1.4.5
+  skin: steel
 lang: en-US
 email: voramahek7gmail.com
 repository: "voram/Digitalisation-in-Physiotherapy"
