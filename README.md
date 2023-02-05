@@ -16,14 +16,16 @@ Digitalization has been incredibly important, particularly during the SARS-CoV-1
 <li><strong>Telemedicine/Tele-Rehab</strong>. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
 
- ![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
+
 
 
 <strong>What Technologies Are Used in Physical Therapy?</strong>
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
 Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
 
-![Coronakrise-Pixformance-Teletherapie-Funktionelles-Training](https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg) 
+
+
+
 
 <ol>
 <li><strong>Motion Capture Tech</strong>
