@@ -1,6 +1,6 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 lang: en-US
-title: My Blog
+title: 
 email: voramahek7@gmail.com
 description: 
 baseurl: # the optional subpath of your site, e.g. "/blog"
