@@ -1,7 +1,6 @@
 <h1><strong>Introduction</strong></h1>
 
-<width="500" height="600">
-![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216795029-f4c23d34-d022-4d79-934d-e0004fc99c20.jpg)
+                                                  ![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216795029-f4c23d34-d022-4d79-934d-e0004fc99c20.jpg)
 
 <p>
 The current digital transition, which is having a significant impact on the healthcare industry, can be considered as a major issue in our contemporary society. While some medical specialties, like radiology, have already been significantly impacted by technological advancements, others that require physical examinations, like orthopedics, are still in the early stages of digital adaption. The field of physiotherapy is becoming more and more influenced by digital influences as it deals with close and frequent patient interaction as well as a variety of transportable digital knowledge.Utilizing electronic documentation can assist monitor measured physical parameters like range of motion (ROM) and improve labor productivity by standardizing workflow. Studies have revealed that a physiotherapeutic examination of the knee using digital tools (such as telehealth) appears to be possible and reliable in the setting of telehealth. Additionally, telemedicine provides the opportunity to contact a large number of patients, cut expenses, and provide access to patients in remote locations. Telehealth has been found to be equally beneficial as traditional hands-on treatment for surgery patients in some contexts. As a result, telehealth can improve patient satisfaction and health outcomes. Another key digital area is mobile health applications (mHealth), which have been shown to provide highly effective support for physiotherapeutic treatment.
@@ -18,14 +17,14 @@ Digitalization has been incredibly important, particularly during the SARS-CoV-1
 <li><strong>Telemedicine/Tele-Rehab</strong>. Since 1998, telerehabilitation has provided patients with a means to get specialized physical therapy services using a webcam and an internet-enabled device.</li>
 </ol>
 
-<width="500" height="600">![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
+                             ![digicare-digirehab-training-digitalisierung_1200x630](https://user-images.githubusercontent.com/116555337/214019757-bd50f4ce-261d-4ff5-b881-701882abd6bf.jpg)
 
 
 <strong>What Technologies Are Used in Physical Therapy?</strong>
 In physical therapy, a wide range of technology is used to account for patient treatment services and administrative purposes. Electronic medical records (EMR), mobility testing equipment, ultrasound, and muscle testing equipment are examples of this technology.
 Any physical therapy practice that wants to streamline and simplify its operations needs a solid EMR solution. With efax capabilities and on-the-go administrative capabilities, this all-in-one solution enables physical therapy practices to stay in compliance and go paperless by leveraging fast electronic patient documentation and management.
 
-<width="500" height="600">"![Coronakrise-Pixformance-Teletherapie-Funktionelles-Training](https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg) 
+               ![Coronakrise-Pixformance-Teletherapie-Funktionelles-Training](https://user-images.githubusercontent.com/116555337/214020274-35d16174-6450-47d4-ad49-ca26425b8326.jpg) 
 
 <ol>
 <li><strong>Motion Capture Tech</strong>
