@@ -1,6 +1,8 @@
 <h1><strong>Introduction</strong></h1>
 
-iStock-dima_sidelnikov-696x392.jpg
+![iStock-dima_sidelnikov-696x392](https://user-images.githubusercontent.com/116555337/216795029-f4c23d34-d022-4d79-934d-e0004fc99c20.jpg)
+
+
 
 <p>
 The current digital transition, which is having a significant impact on the healthcare industry, can be considered as a major issue in our contemporary society. While some medical specialties, like radiology, have already been significantly impacted by technological advancements, others that require physical examinations, like orthopedics, are still in the early stages of digital adaption. The field of physiotherapy is becoming more and more influenced by digital influences as it deals with close and frequent patient interaction as well as a variety of transportable digital knowledge.Utilizing electronic documentation can assist monitor measured physical parameters like range of motion (ROM) and improve labor productivity by standardizing workflow. Studies have revealed that a physiotherapeutic examination of the knee using digital tools (such as telehealth) appears to be possible and reliable in the setting of telehealth. Additionally, telemedicine provides the opportunity to contact a large number of patients, cut expenses, and provide access to patients in remote locations. Telehealth has been found to be equally beneficial as traditional hands-on treatment for surgery patients in some contexts. As a result, telehealth can improve patient satisfaction and health outcomes. Another key digital area is mobile health applications (mHealth), which have been shown to provide highly effective support for physiotherapeutic treatment.
